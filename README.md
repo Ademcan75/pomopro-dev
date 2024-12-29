@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="image/icon.jpeg" alt="Logo" width="200"/>
+</p>
+---
 # PomoPro - Universal Pomodoro Timer
 
 A sleek, efficient Pomodoro timer application accessible everywhere through modern browsers (desktop & mobile) and as a native Android app.
