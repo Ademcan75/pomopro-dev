@@ -49,7 +49,7 @@ A sleek, efficient Pomodoro timer application accessible everywhere through mode
 - WebSocket for real-time updates (it's for next stage)
 
 ### Styling & UI
-- TailwindCSS
+- TailwindCSS or NextUI
 - Framer Motion
 - CSS Variables for theming
 - Media queries for responsiveness
