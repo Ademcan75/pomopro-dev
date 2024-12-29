@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="image/icon.jpeg" alt="Logo" width="200"/>
+  <img src="image/iconfirst.jpeg" alt="Logo" width="200"/>
 </p>
 
 # PomoPro - Universal Pomodoro Timer
